@@ -17,7 +17,7 @@ $ yarn test
 This repository is designed for the zkSync Era. To build artifacts for the zkSync Era run:
 ```
 $ yarn build-zk
-```
+```)
 
 ## License
 
