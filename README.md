@@ -5,7 +5,7 @@
 SyncSwap is a seamless and efficient decentralized exchange on the zkSync Era, featuring the future-proofing multi-pool design to allow the integration of various pool models.
 
 This repository contains the core contracts of the SyncSwap protocol. For an overview of the architecture, see the [API documentation](https://syncswap.gitbook.io/api-documentation/).
-hg
+hgl
 ## Build
 To build artifacts, please make sure you have Yarn installed.
 ```
